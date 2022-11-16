@@ -22,7 +22,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <jacksonVersion>LATEST</jacksonVersion>
+        <jacksonVersion>2.12.7.1</jacksonVersion>
     </properties>
 
     <dependencies>
